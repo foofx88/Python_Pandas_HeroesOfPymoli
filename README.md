@@ -14,4 +14,13 @@
   <li>Most profitable items</li>
 </ul>  
 
+Code Snippet:
+
+Creating Bins for the Age Demographics (Count and Percentage)
+<img width="" src="/HeroesOfPymoli/Resources/Capture.JPG">
+
+Getting the most profitable item
+<img width="" src="/HeroesOfPymoli/Resources/Capture2.JPG">
+
+See the full Jupyter Notebook <a href="https://github.com/foofx88/Python_Pandas_HeroesOfPymoli/blob/main/HeroesOfPymoli/HeroesOfPymoli_starter.ipynb">here</a>
 
